@@ -1,2 +1,2 @@
 # PycharmSWATAutomation
-PB980 GUI Automation
+PB980 GUI Automations
